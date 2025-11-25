@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+console.log('Update')
 var conf = { dir:__dirname, port:8080, host:'localhost', modules:{} },
 	mimes = ('text/plain html text/html js text/javascript css text/css json application/json xml application/xml').split(' ');
 ('fs http url cluster os util').split(' ').forEach(function(l){ global[l]=require(l); });
