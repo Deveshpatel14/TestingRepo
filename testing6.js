@@ -1,1 +1,0 @@
-const newTemp = () => {console.log('Newer testing updated now')}
