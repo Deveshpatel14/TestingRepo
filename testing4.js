@@ -1,1 +1,0 @@
-const temp = 'Temp string'
