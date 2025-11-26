@@ -1,0 +1,1 @@
+const Logger = (log) =>{console.log(log)}
