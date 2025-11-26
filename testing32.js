@@ -1,0 +1,1 @@
+const tempFunc3 = (a,b) => {return a-b+a*b/a*b/a+b}
