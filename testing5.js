@@ -1,1 +1,0 @@
-const temp = () => {console.log('Test')}
