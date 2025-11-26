@@ -1,1 +1,1 @@
-const tempFunc5678912344567 = (a,b) => {return a-b+a*b/a*b-a-b+a/b}
+console.log('updated')
