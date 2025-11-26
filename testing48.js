@@ -1,1 +1,1 @@
-const tempFunc5678912344567 = (a,b) => {return a-b+a*b/a*b-a-b+a/b}
+const add = (a,b) =>{return a+b}
