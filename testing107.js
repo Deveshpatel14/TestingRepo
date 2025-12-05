@@ -1,1 +1,1 @@
-console.log('11:11pm')
+console.log('5 DEC')
